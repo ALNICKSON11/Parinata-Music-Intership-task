@@ -26,6 +26,7 @@ Installation
 --To run this app on your device, follow these steps:
 --Clone this repository to your local machine.
 --Ensure you have Flutter SDK installed.
+--Change the directory to the root app(flutter_internship_task)
 --Run flutter pub get to install dependencies.
 --Run flutter run to launch the app on your device or emulator.
  
